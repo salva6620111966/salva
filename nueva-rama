@@ -1,0 +1,2 @@
+git checkout nueva-rama
+git push origen nueva-rama
