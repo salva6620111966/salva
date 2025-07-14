@@ -1,2 +1,4 @@
 git checkout nueva-rama
 git push origen nueva-rama
+git@github.com:salva6620111966/salva.git
+gh repo clone salva6620111966/salva
